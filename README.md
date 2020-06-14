@@ -1,1 +1,1 @@
-[![header](http://leahl.se/header.png)](http://leahl.se/)
+[![header](http://leahl.se/header2.png)](http://leahl.se/)
